@@ -17,7 +17,7 @@ public class calculadora {
        
        int soma = soma(a,b);
        int subtracao = subtracao(a,b);
-       double divisao = Double.valueOf(a) / Double.valueOf(b) ;
+       double divisao = Double.valueOf(a) / Double.valueOf(b);
        int multiplicacao = multiplicacao(a,b);
 	
        System.out.println("soma " + soma);
